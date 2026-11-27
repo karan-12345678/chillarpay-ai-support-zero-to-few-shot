@@ -4,7 +4,7 @@ hillarPay AI Support: From Zero-shot to Few-shot Prompting
 **A FinTech case study on when a simple prompt is enough and when AI needs examples.**
 
 
-Author: [Your Name] · BBA (FinTech), Chitkara Business School · Tool: [ChatGPT / Claude] · [Month Year]
+Author: Karanveer Singh · BBA (FinTech), Chitkara Business School · Tool: [ChatGPT / Claude] · november 2026
 
 
 ## The case
